@@ -45,3 +45,4 @@ Git (Optional) – Version control for project management.
 
 ## OUTPUTS:
 
+<img width="529" height="412" alt="Image" src="https://github.com/user-attachments/assets/0120de65-9f3e-4a78-8a82-d5cb076a0534" />
